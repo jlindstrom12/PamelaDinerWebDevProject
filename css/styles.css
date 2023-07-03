@@ -41,6 +41,7 @@ body{
     font-size: .875em;
     position:fixed;
     z-index:2;
+    margin-right:5em;
 }
 #top_row img{
    float:left;
